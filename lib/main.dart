@@ -43,8 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
   void initState() {
     super.initState();
     getMyFont();
-    CircularProgressIndicator();
-    for (var i = 0; i < 1000; i++) {}
+    
   }
 
   @override
